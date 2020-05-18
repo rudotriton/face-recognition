@@ -1,0 +1,26 @@
+{
+  "name": "face-recognition",
+  "version": "1.0.0",
+  "description": "This project has been developed for a computer vision course and includes two different methods for face recognition.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudotriton/face-recognition.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudotriton/face-recognition/issues"
+  },
+  "homepage": "https://github.com/rudotriton/face-recognition#readme",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^1.7.4",
+    "canvas": "^2.6.1",
+    "face-api.js": "^0.22.2",
+    "node-fetch": "^2.6.0"
+  }
+}
